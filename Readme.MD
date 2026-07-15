@@ -57,15 +57,15 @@ Both solutions write leave applications to a SharePoint Online list named Leave 
 
 ### Classic Copilot Studio
 
-![Classic Overview](./screenshots/Classic-Overview.png)
-![Classic Topics List](./screenshots/Classic-Topics-List.png)
-![Classic Topics Details](./screenshots/Classic-Topics_details.png)
+![Classic Overview](./Screenshots/Classic-Overview.png)
+![Classic Topics List](./Screenshots/Classic-Topics-List.png)
+![Classic Topics Details](./Screenshots/Classic-Topics_details.png)
 
 ### New Agent Experience
 
-![New UI Overview](./screenshots/NewUI-Overview.png)
-![New UI Skill](./screenshots/NewUI-Skill.png)
-![New UI Skill 1](./screenshots/NewUI-Skill1.png)
+![New UI Overview](./Screenshots/NewUI-Overview.png)
+![New UI Skill](./Screenshots/NewUI-Skill.png)
+![New UI Skill 1](./Screenshots/NewUI-Skill1.png)
 
 ## Prerequisites
 
